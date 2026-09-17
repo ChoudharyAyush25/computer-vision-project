@@ -62,7 +62,7 @@ Results are written to `output/`. Available operations are `grayscale`, `resize`
 
 ## Tests
 
-Run `pytest`. The tests check grayscale output, resize dimensions, and that shape detection runs.
+Run `python -m pytest`. The tests check grayscale output, resize dimensions, and that shape detection runs.
 
 ## Sample results
 
